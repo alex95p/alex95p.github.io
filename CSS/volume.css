@@ -1,0 +1,82 @@
+
+/*Main Body*/
+
+body {
+	background-image:url('../WebsiteImages/PageElements/web_background.png');
+}
+
+h1, h2 {
+	font-family:Copperplate, fantasy;
+	margin:30px;
+	background-color:Black;
+	color:White;
+	display:inline;
+	padding-right:10px;
+}
+
+p {
+	font-family:Copperplate, fantasy;
+	background-color: DarkGrey;
+	color:black;
+	width:650px;
+	height:400px;
+	margin:30px;
+	padding:15px;
+	overflow:scroll;
+	border-radius: 25px;
+}
+
+.volume_info {
+	float:right;
+	top:115px;
+	right:350px;
+	position:absolute;
+}
+
+.volume_info p {
+	width:200px;
+	height:400px;
+	overflow:hidden;
+}
+
+
+.volume_art h2 {
+	float:right;
+	top:65px;
+	right:150px;
+	position:absolute;
+}
+
+.volume_art img {
+	width:250px;
+	height:400px;
+	float:right;
+	right:40px;
+	top:145px;
+	position:absolute;
+	background-color:DarkGray;
+}
+
+.buttons {
+	float:right;
+	right:120px;
+	position:absolute;
+}
+
+footer {
+	background-color:DarkRed;
+	width:98%;
+	height:60px;
+	bottom:0px;
+	position:fixed;
+	border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+

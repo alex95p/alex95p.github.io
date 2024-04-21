@@ -1,0 +1,73 @@
+body {
+	background-image:url('../WebsiteImages/PageElements/web_background.png');
+}
+
+h1, h2 {
+	font-family:Copperplate, fantasy;
+	margin:30px;
+	background-color: Black;
+	color:White;
+	display:inline;
+	padding-right:10px;
+}
+
+p {
+	font-family:Copperplate, fantasy;
+	background-color: DarkGrey;
+	color:black;
+	width:750px;
+	height:400px;
+	margin:30px;
+	padding:15px;
+	overflow:auto;
+	border-radius: 25px;
+}
+
+p img {
+	width:320px;
+	height:250px;
+	margin:15px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+
+.episode_sum {
+	position:absolute;
+	float:right;
+	top:100px;
+	right:200px;
+}
+
+.episode_sum p {
+	height:400px;
+	width:200px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	overflow:hidden;
+	font-size:13px;
+}
+
+.episode_sum img {
+	width:100px;
+	height:200px;
+}
+
+iframe {
+	float:right;
+	margin:10px;
+	right:20px;
+}
+
+footer {
+	background-color:DarkRed;
+	width:99%;
+	height:60px;
+	bottom:0px;
+	position:fixed;
+	border-radius: 25px;
+}
+
+
+

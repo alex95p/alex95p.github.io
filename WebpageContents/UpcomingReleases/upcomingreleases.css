@@ -1,0 +1,16 @@
+body {
+	background-image:url('../WebsiteImages/PageElements/bg_img');
+}
+
+h1, h2 {
+	font-family:Copperplate, fantasy;
+}
+
+p {
+	font-family: "trebuchet MS", sans-serif;
+	background-image:url('../WebsiteImages/PageElements/p_bg.jpeg');
+	width:900px;
+	height:450px;
+	margin:30px;
+	overflow:scroll;
+}
