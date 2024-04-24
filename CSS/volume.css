@@ -39,6 +39,13 @@ p {
 	overflow:hidden;
 }
 
+.volume_info h2 {
+	bottom:400px;
+	float:right;
+	right:90px;
+	position:absolute;
+}
+
 
 .volume_art h2 {
 	float:right;
@@ -57,7 +64,7 @@ p {
 	background-color:DarkGray;
 }
 
-.buttons {
+.volume_art button {
 	float:right;
 	right:120px;
 	position:absolute;

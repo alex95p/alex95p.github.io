@@ -75,6 +75,11 @@ p {
 	top:230px;
 }
 
+.user_message h1 {
+	text-align:center;
+}
+
+
 footer {
 	background-color: DarkRed;
 	width:98%;
